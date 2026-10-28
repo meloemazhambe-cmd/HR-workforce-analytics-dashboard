@@ -79,5 +79,4 @@ The source is verified as a simulated HR dataset devoid of personally identifiab
 ## 🛡️ Academic & Data Integrity Notice
 The materials hosted in this public repository represent independent applications of data analytics methodologies utilizing public-domain source code and synthesized data structures. They do not contain proprietary corporate materials, protected institutional data, or restricted commercial information.
 
-**Author:** Takudzwa Melody Mazhambe
-
+**Author:** Takudzwa Melody Mazhambe | [LinkedIn](https://www.linkedin.com/in/takudzwa-melody-mazhambe-80b0501a1/)
